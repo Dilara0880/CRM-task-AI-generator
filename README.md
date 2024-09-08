@@ -2,6 +2,7 @@
 
 This project analyzes dialogues between clients and managers to generate relevant tasks in a CRM system. It uses OpenAI's language model to formulate tasks based on dialogues and feedback provided.
 
+## [Решение задания 2](https://github.com/Dilara0880/CRM-task-AI-generator/blob/main/Task%202.md)
 ## Requirements
 
 - Python 3.x
@@ -43,3 +44,4 @@ Execute the script in the same directory:
 ```
 python task_generator.py
 ```
+
